@@ -48,4 +48,4 @@ therefore the above polynomial arithmetic module is field if given a prime p and
     - **gcd1**: this returns the greatest common divisor between the first and only polynomial given and m(x), it also returns the inverse -if exixts according to the constarins we mentioned above-
 
 
-![alt text](https://github.com/yousefelsharkawy/Modular-Polynomial-Arithmetic/blob/master/illustrations.png "illiustration image")
+![alt text](https://github.com/yousefelsharkawy/Modular-Polynomial-Arithmetic/blob/master/illustration.png "illiustration image")
